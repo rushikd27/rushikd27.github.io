@@ -99,12 +99,24 @@
   contents:
     - year: 2025
       items:
-        - "Biswas, M.; Desai, R.†; Bidna, G.; Mannodi-Kanakkithodi, A. Unified Graph-Based Interatomic Potential for Perovskite Structure Optimization. ChemRxiv July 14, 2025. (Under review in JCIM)"
-        - "Marshall, J.; Sanchez, S.; Desai, R.; Foadian, E.; Pratiush, U.; Mannodi-Kanakkithodi, A.; Kalinin, S. V.; Ahmadi, M. POLARIS: Perovskite Optimization Using LLM-Assisted Refinement and Intelligent Screening. ChemRxiv June 10, 2025. (Under Review in Digital Discovery)"
-        - "Desai, R.†; Agarwal, S.; Vincent, K. C.; Strachan, A.; Agrawal, R.; Mannodi-Kanakkithodi, A. Exploring the Defect Landscape and Dopability of Chalcogenide Perovskite BaZrS3. J. Phys. Chem. C 2025, 129 (16), 7967–7976."
+        - "Biswas, M.; Desai, R.†; Bidna, G.; Mannodi-Kanakkithodi, A. Unified Graph-Based Interatomic Potential for Perovskite Structure Optimization. ChemRxiv July 14, 2025. https://doi.org/10.26434/chemrxiv-2025-g9sb9. (Under review in JCIM)"
+        - "Marshall, J.; Sanchez, S.; Desai, R.; Foadian, E.; Pratiush, U.; Mannodi-Kanakkithodi, A.; Kalinin, S. V.; Ahmadi, M. POLARIS: Perovskite Optimization Using LLM-Assisted Refinement and Intelligent Screening. ChemRxiv June 10, 2025. https://doi.org/10.26434/chemrxiv-2025-qqchd-v2. (Under Review in Digital Discovery)"
+        - "Desai, R.†; Agarwal, S.; Vincent, K. C.; Strachan, A.; Agrawal, R.; Mannodi-Kanakkithodi, A. Exploring the Defect Landscape and Dopability of Chalcogenide Perovskite BaZrS3. J. Phys. Chem. C 2025, 129 (16), 7967–7976. https://doi.org/10.1021/acs.jpcc.5c01597."
     - year: 2024
       items:
-        - "Biswas, M.; Desai, R.†; Mannodi-Kanakkithodi, A. Screening of Novel Halide Perovskites for Photocatalytic Water Splitting Using Multi-Fidelity Machine Learning. Physical Chemistry Chemical Physics 2024, 26 (35), 23177–23188."
+        - "Biswas, M.; Desai, R.†; Mannodi-Kanakkithodi, A. Screening of Novel Halide Perovskites for Photocatalytic Water Splitting Using Multi-Fidelity Machine Learning. Physical Chemistry Chemical Physics 2024, 26 (35), 23177–23188. https://doi.org/10.1039/D4CP02330G."
+
+- title: Conferences
+  type: time_table
+  contents:
+    - title: Materials Research Society Fall Meeting
+      year: December 2025
+      description:
+        - "Accepted for a talk on FAIR workflows for understanding properties and synthesizability of perovskite compositions"
+    - title: Materials Research Society Fall Meeting
+      year: December 2024
+      description:
+        - "Presented a talk on FAIR database curation for halide perovskites, showcasing our database and workflows along with the tool demo"
 
 - title: Awards and Achievements
   type: time_table

@@ -6,7 +6,7 @@ subtitle: PhD candidate in Materials Engineering at Purdue University. Passionat
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 1695781755447.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Graduate Research Assistant</p>

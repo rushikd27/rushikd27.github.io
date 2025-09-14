@@ -13,7 +13,7 @@
 email: rushikd07@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: rushikd27 # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -51,6 +51,6 @@ scholar_userid: TT9V8-8AAAAJ # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://nanohub.org/images/nanohub-logo.png # can be png, svg, jpg
+  logo: nanoHUB_logo_color.svg # can be png, svg, jpg
   title: nanoHUB Tools
   url: https://nanohub.org/members/410425/contributions
