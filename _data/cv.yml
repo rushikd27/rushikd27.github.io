@@ -2,96 +2,145 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Rushik Desai
+    - name: Email
+      value: rushikd07@gmail.com
+    - name: Phone
+      value: (765)-694-5158
+    - name: Location
+      value: West Lafayette, IN, USA
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Materials Engineering
+      institution: Purdue University, West Lafayette, IN, USA
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor: Prof. Alejandro Strachan and Prof. Arun Mannodi
+        - GPA: 3.23/4.00
+        - Relevant courses: Atomistic View of Materials, Materials Modeling and Informatics, Optimization, Solid-State Devices, Scientific Machine Learning
+    - title: B.Tech. in Materials Engineering
+      institution: Indian Institute of Technology Gandhinagar (IIT GN), India
+      year: 2019 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 9.02/10.00
+        - Relevant courses: Solid Mechanics, Mechanical Behavior of Materials, Processing and Characterization
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: Purdue University
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Advisor: Prof. Alejandro Strachan and Prof. Arun Mannodi
+        - Broad Topics: Defect Modeling, Perovskites, GNNs, ML and optimization
+        - Material-Device Co-design for High-temperature Piezoelectric Sensors (July 2025 - Ongoing)
+        - FAIR Perovskite Database curation (Aug 2023 - Ongoing)
+        - Exploring the Defect Landscape of BaZrS₃ (May 2024 - Ongoing)
+    - title: Research Intern
+      institution: University of Manitoba, Canada
+      year: May 2022 - July 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Advisor: Prof. Georg Schreckenbach
+        - Band-gap modulation of novel 2D Materials using DFT
+        - Worked on silicene-germanene heterostructures and superconducting properties
+    - title: Undergraduate Research Assistant
+      institution: IIT Gandhinagar, India
+      year: Aug 2021 - May 2022
       description:
+        - Advisor: Prof. Raghavan Ranganathan
+        - Viscoelastic Study of Polyethylene Nanocomposites
+        - Constructed coarse-grained models and performed MD simulations using LAMMPS
+    - title: Undergraduate Research Assistant
+      institution: IIT Gandhinagar, India
+      year: Aug 2022 - Dec 2022
+      description:
+        - Advisor: Prof. Emila Panda
+        - Developing buffer layer for VO₂ thin film coatings
+        - RF Magnetron Sputtering, XRD, UV-Vis-NIR characterization
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computational Tools
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Machine Learning (ML)
+        - Density Functional Theory (DFT)
+        - Molecular Dynamics
+    - title: Programming Languages
       items:
-        - Description 1.
-        - Description 2.
+        - Python
+        - Linux
+        - Shell scripting
+        - MATLAB
+    - title: Software and Packages
+      items:
+        - PyTorch
+        - Scikit-learn
+        - Pandas
+        - High-Performance Computing
+        - VASP
+        - Quantum Espresso
+        - LAMMPS
+    - title: Experimental Tools
+      items:
+        - XRD
+        - Optical Spectroscopy
+        - SEM
+        - Materials Processing
+        - Thin Films Processing
 
-- title: Other Interests
+- title: Publications
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - "Biswas, M.; Desai, R.†; Bidna, G.; Mannodi-Kanakkithodi, A. Unified Graph-Based Interatomic Potential for Perovskite Structure Optimization. ChemRxiv July 14, 2025. (Under review in JCIM)"
+        - "Marshall, J.; Sanchez, S.; Desai, R.; Foadian, E.; Pratiush, U.; Mannodi-Kanakkithodi, A.; Kalinin, S. V.; Ahmadi, M. POLARIS: Perovskite Optimization Using LLM-Assisted Refinement and Intelligent Screening. ChemRxiv June 10, 2025. (Under Review in Digital Discovery)"
+        - "Desai, R.†; Agarwal, S.; Vincent, K. C.; Strachan, A.; Agrawal, R.; Mannodi-Kanakkithodi, A. Exploring the Defect Landscape and Dopability of Chalcogenide Perovskite BaZrS3. J. Phys. Chem. C 2025, 129 (16), 7967–7976."
+    - year: 2024
+      items:
+        - "Biswas, M.; Desai, R.†; Mannodi-Kanakkithodi, A. Screening of Novel Halide Perovskites for Photocatalytic Water Splitting Using Multi-Fidelity Machine Learning. Physical Chemistry Chemical Physics 2024, 26 (35), 23177–23188."
+
+- title: Awards and Achievements
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - "Best Poster Presentation at Materials Research Data Alliance (MaRDA) Annual Meeting"
+        - "Computing time allocation, Argonne National Laboratory Cluster"
+    - year: 2025
+      items:
+        - "NSF ACCESS Anvil Cluster computing time allocation"
+    - year: 2022
+      items:
+        - "Mitacs Globalink Fellowship to conduct 12 weeks of research in Canada"
+
+- title: Leadership & Mentorship
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: Purdue University
+      year: Fall 2024
+      description:
+        - Structure and Properties of Materials course
+        - Conducted tutorials for 80 students on XRD, phase diagrams
+    - title: Graduate Research Mentor
+      institution: Purdue University
+      year: Fall 2024, Spring 2025, Summer 2025
+      description:
+        - Mentored junior undergraduates in dataset curation and ML model training
+        - Developed tools on nanoHUB platform
+
+- title: Research Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Machine Learning and Optimization for Materials Discovery"
+    - "Defect Modeling in Perovskite Materials"
+    - "High-throughput Materials Screening"
+    - "Atomistic Simulations and DFT Calculations"
+    - "Materials Characterization and Device Integration"
