@@ -13,7 +13,6 @@ profile:
     <p>Purdue University</p>
     <p>West Lafayette, IN 47907</p>
     <p>Email: rushikd07@gmail.com</p>
-    <p>Phone: (765)-694-5158</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
