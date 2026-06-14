@@ -32,6 +32,11 @@
 - title: Professional Experience
   type: time_table
   contents:
+    - title: Advanced DRAM PI Intern
+      institution: Micron Technology
+      year: May 2026 - August 2026
+      description:
+        - Working on advanced DRAM process integration
     - title: Graduate Research Assistant
       institution: Purdue University
       year: 2023 - Present
